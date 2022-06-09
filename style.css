@@ -318,8 +318,7 @@ header .btn-mobile{
     color: #fff;
 }
 #contact .content-contact .contact-right button{
-    
-    
+ 
     position: absolute;
     z-index: 9;
     margin-top: 350px;
@@ -330,8 +329,6 @@ header .btn-mobile{
     background: rgba(21,111,195,0.5);
     text-transform: uppercase;
     cursor: pointer;
-
-
 }
 
 #contact .content-contact .contact-right h1{
