@@ -317,6 +317,23 @@ header .btn-mobile{
     flex-direction: column;
     color: #fff;
 }
+#contact .content-contact .contact-right button{
+    
+    
+    position: absolute;
+    z-index: 9;
+    margin-top: 350px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    color: #fff;
+    background: rgba(21,111,195,0.5);
+    text-transform: uppercase;
+    cursor: pointer;
+
+
+}
+
 #contact .content-contact .contact-right h1{
     font-size: 2rem;
     text-transform: uppercase;
